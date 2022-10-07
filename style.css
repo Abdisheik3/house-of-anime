@@ -1,0 +1,31 @@
+body {
+    background-image: url("https://sm.ign.com/ign_me/feature/t/the-top-25/the-top-25-greatest-anime-characters-of-all-time_cd46.jpg");
+    background-image: ;
+}
+
+header {
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 10rem;
+    color: white;
+}
+
+.card {
+    /* width: 100%;
+    display: flex;
+    flex-wrap: row;
+    justify-content: space-evenly;
+} */
+display: grid;
+grid-template-rows: auto;
+}
+
+p {
+    color: white;
+    
+}
+
+b {
+    color: white;
+    
+}
